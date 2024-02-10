@@ -1,11 +1,11 @@
-### Hi there 👋
-My name is Zoey Ballard!
-- 🎓 Freshman at the University of Houston, dual major in CompE and Comp Sci.
+### [WELCOME] TO THE WORLD OF ⭐ZOEY BALLARD⭐ ~
+She is...
+- 🎓 A freshman at the University of Houston, dual major in CompE and Comp Sci.
 - 🎲 Working on updating my personal page.
-- 🌱 I’m currently learning C#, Labview, PLC programming.
-- 🔍 I’m looking for help with ^^
+- 🌱 Learning C#, Labview, PLC programming.
+- 🔍 Looking for resources for and help with the above ^^
 - 💌 Pronouns: she/her
-- 🌈 Fun fact: I adore working on art or reading. You can also catch me on the slopes if I have the chance!
+- 🌈 Fun fact: She adores working on art or reading. You can also catch her on the slopes when she has the chance!
 
   
 <!--
