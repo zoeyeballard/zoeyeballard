@@ -1,7 +1,7 @@
 ### [WELCOME] TO THE WORLD OF ⭐ZOEY BALLARD⭐ ~
 She is...
-- 🎓 A freshman at the University of Houston, dual major in CompE and Comp Sci.
-- 🎲 Working on updating my personal page.
+- 🎓 A freshman at the University of Houston, dual major in EE and Comp Sci (aiming for Embedded). 
+- 🎲 Learning cybersecurity and embedded programming.
 - 🌱 Learning C#, Labview, PLC programming.
 - 🔍 Looking for resources for and help with the above ^^
 - 💌 Pronouns: she/her
