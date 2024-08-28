@@ -1,4 +1,4 @@
-### [WELCOME] TO THE WORLD OF ⭐ZOEY BALLARD⭐ ~
+### [WELCOME] TO THE WORLD OF ZOEY BALLARD
 She is...
 - 🎓 A sophomore at the University of Houston, dual major in EE and Comp Sci (aiming for Embedded). 
 - 🎲 Learning cybersecurity and embedded programming.
