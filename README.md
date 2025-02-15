@@ -1,9 +1,7 @@
-### [WELCOME] TO THE WORLD OF ZOEY BALLARD
-She is...
+### [WELCOME] TO MY PROFILE
+Hello, I am Zoey Ballard
 - 🎓 A sophomore at the University of Houston, dual major in EE and Comp Sci (aiming for Embedded). 
-- 🎲 Learning cybersecurity and embedded programming.
-- 🌱 Learning C#, Labview, PLC programming.
-- 🔍 Looking for resources for and help with the above ^^
+- 🎲 Learning how to implement better full-stack applications, ROS, logic design, and embedded programming.
 - 💌 Pronouns: she/her
 - 🌈 Fun fact: She adores working on art or reading. You can also catch her on the slopes when she has the chance!
 
