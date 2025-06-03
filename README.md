@@ -1,6 +1,6 @@
 ### [WELCOME] TO MY PROFILE
 Hello, I am Zoey Ballard
-- 🎓 A sophomore at the University of Houston, dual major in EE and Comp Sci (aiming for Embedded). 
+- 🎓 A junior at the University of Houston, dual major in EE and Comp Sci (aiming for Embedded). 
 - 🎲 Learning how to implement better full-stack applications, ROS, logic design, and embedded programming.
 - 💌 Pronouns: she/her
 
